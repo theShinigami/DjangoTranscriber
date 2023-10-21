@@ -275,3 +275,5 @@ dump.rdb
 transcriber/media/
 
 .pytest_cache/
+.env
+.envs
