@@ -1,9 +1,0 @@
-# PostgreSQL
-# ------------------------------------------------------------------------------
-DATABASE_URL=postgres://djtranscriber_user:my_super_secret_password@localhost:5432/djtranscriber
-POSTGRES_HOST=localhost
-POSTGRES_PORT=5432
-POSTGRES_DB=djtranscriber
-POSTGRES_SCHEMA=django_transcriber_schema
-POSTGRES_USER=djtranscriber_user
-POSTGRES_PASSWORD=my_super_secret_password
