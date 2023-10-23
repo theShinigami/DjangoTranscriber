@@ -6,7 +6,7 @@ class File(models.Model):
     """file field"""
     file = models.FileField()
     """alternate file id"""
-    file_id = models.UUIDField(default=uuid4())
+    file_id = models.UUIDField()
     """flag to check if file is transcribed or not"""
     is_transcribed = models.BooleanField(default=False)
     # TODO: change this to a file
