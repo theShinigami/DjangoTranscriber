@@ -282,3 +282,9 @@ transcriber/media/
 transcriber/tests/services/test_files/
 transcriber/tests/services/test_files/test_file_001.mp3
 media
+
+.idea/django_transcriber.iml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
